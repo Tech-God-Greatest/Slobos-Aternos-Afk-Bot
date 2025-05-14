@@ -32,11 +32,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 60,
+      "repeat-delay": 10,
 
       "messages": [
         "Welcome to SorceryMC",
-        "This server was made by TechGodLakshit and _Netflixx_2",
         "For Tutorial type /news"
       ]
     },
